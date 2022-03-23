@@ -8,3 +8,12 @@ I focus on having a growth mindset in a multitude of ways.
 ## table of contents
 
 * [class 1](Class1.md)
+* [class 2](class2.md)
+* [class 3](class3.md)
+* [class 4](class4.md)
+* [class 5](class5.md)
+* [class 6](class6.md)
+* [class 7]()
+* [class 8]()
+* [class 9]()
+* [class 10]()
