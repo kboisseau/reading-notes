@@ -28,8 +28,3 @@
 * To start tracking these repository files, perform an initial commit by typing the following:
 * $ git add *.c
 * $ git add LICENSE
-* $ git commit -m “any message here”
-* Clonning from repo URL $ git clone https://github.com/test
-* Cloning from command format $ git clone https://github.com/test mydirectory
-* By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
-* By using git remote -v, you can view all the remote URLs next to their corresponding short names.
