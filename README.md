@@ -7,7 +7,7 @@ I focus on having a growth mindset in a multitude of ways.
 
 ## table of contents
 
-* [class 1](Class1.md)
+* [class 1](https://github.com/kboisseau/reading-notes/blob/1af3bd9f3dbccc99b58307d22dcafb10f0b63406/Class%201%20201.md)
 * [class 2](class2.md)
 * [class 3](class3.md)
 * [class 4](class4.md)
